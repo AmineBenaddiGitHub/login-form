@@ -116,7 +116,7 @@ const LoginComponent = styled.div`
   height: 300px;
   background: white;
   border-radius: 15px;
-  padding: 85px;
+  padding: 10px;
 `;
 
 const LoginTitle = styled.h1`
